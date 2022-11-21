@@ -1,0 +1,1 @@
+data\input\file1.txt
